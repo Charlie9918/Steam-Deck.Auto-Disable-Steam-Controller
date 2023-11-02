@@ -25,3 +25,5 @@ Valve Software Wireless Steam Controller
 SteamController
 #ROCCAT ROCCAT Arvo
 #MOSART Semi. 2.4G Wireless Mouse
+Steelseries APEX 3 TKL
+Steelseries Rival 3
